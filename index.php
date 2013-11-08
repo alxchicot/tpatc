@@ -7,7 +7,7 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it.
+
  *
  * @var bool
  */
@@ -18,6 +18,8 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 /* modification du fichier*/
 
-/* modification du fichier*/
+/* modqkmljfikqkfification du fichier*/
 
 /* modification du fichier*/
+
+/*encore modif*/
